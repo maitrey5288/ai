@@ -1,0 +1,26 @@
+% trees
+tree(oak).
+tree(apple).
+tree(pine).
+tree(mango).
+tree(banana).
+
+% height (in meters)
+height(oak, 20).
+height(apple, 5).
+height(pine, 30).
+height(mango, 15).
+height(banana, 10).
+
+% fruits they produce
+fruit(apple,Apples).
+fruit(mango, Mangoes).
+fruit(banana,Bananas).
+
+% grown where
+region(oak, Uttarakhand).
+region(apple,Kashmir).
+region(pine, Uttarakhand).
+region(mango,Maharashtra).
+region(banana, Maharashtra).
+
